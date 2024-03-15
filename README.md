@@ -1,6 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NXl1MHlkMTRsd2pzemk3aG9zb3NpdzRhamFzYmp2d2ZlMmlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Arwa</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+[![Header](./github-header-image.png)]
 <img align "center" alt= "coding" width=500 src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NXl1MHlkMTRsd2pzemk3aG9zb3NpdzRhamFzYmp2d2ZlMmlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroraasan&label=Profile%20views&color=0e75b6&style=flat" alt="auroraasan" /> </p>
 
