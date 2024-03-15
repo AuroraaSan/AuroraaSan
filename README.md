@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arwa</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-<img align "center" alt= "coding" width=600 src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NXl1MHlkMTRsd2pzemk3aG9zb3NpdzRhamFzYmp2d2ZlMmlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
+<img align "left" alt= "coding" width=600 src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NXl1MHlkMTRsd2pzemk3aG9zb3NpdzRhamFzYmp2d2ZlMmlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroraasan&label=Profile%20views&color=0e75b6&style=flat" alt="auroraasan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auroraasan" alt="auroraasan" /></a> </p>
