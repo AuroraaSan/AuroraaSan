@@ -1,6 +1,6 @@
 [![MasterHead](./github-header-image.png)](https://rishavchanda.io)
 
-<h3 align="center">Passionate about solving problems, creating innovative solutions, and building products that make a difference.</h3>
+<h2 align="center">Passionate about solving problems, creating innovative solutions, and building products that make a difference.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroraasan&label=Profile%20views&color=0e75b6&style=flat" alt="auroraasan" /> </p>
 
