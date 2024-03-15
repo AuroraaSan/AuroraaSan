@@ -1,6 +1,9 @@
-<div align="center">
-  [![MasterHead](./github-header-image.png)](https://rishavchanda.io)
+<div style="text-align:center;">
+    <a href="https://rishavchanda.io">
+        <img src="./github-header-image.png" alt="MasterHead" />
+    </a>
 </div>
+
 
 <h2 align="center">Passionate about solving problems, creating innovative solutions, and building products that make a difference.</h2>
 
