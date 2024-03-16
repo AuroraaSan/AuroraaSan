@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Web stack debugging and server monitoring**
 
-- 📫 How to reach me **arwa.zakaria@ejust.edu.eg**
+- 📫 How to reach me **arwa.zakaria@ejust.edu.eg** or
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
