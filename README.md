@@ -1,8 +1,3 @@
-<div style="text-align:center;">
-    <a href="https://rishavchanda.io">
-        <img src="./github-header-image.png" alt="MasterHead" />
-    </a>
-</div>
 
 
 
