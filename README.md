@@ -8,7 +8,8 @@
 <h2 align="center">Passionate about solving problems, creating innovative solutions, and building products that make a difference.</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=auroraasan&label=Profile%20views&color=0e75b6&style=flat" alt="auroraasan" /> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NXl1MHlkMTRsd2pzemk3aG9zb3NpdzRhamFzYmp2d2ZlMmlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif)">
+
+![Alt Text]([./path-to-your-gif-file.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NXl1MHlkMTRsd2pzemk3aG9zb3NpdzRhamFzYmp2d2ZlMmlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif))
 
 
 - 🌱 I’m currently learning **Web stack debugging and server monitoring**
