@@ -1,6 +1,6 @@
 <div style="text-align:center;">
     <a href="https://rishavchanda.io">
-        <img src="./github.png" alt="MasterHead" />
+        <img src="./github-.png" alt="MasterHead" />
     </a>
 </div>
 
