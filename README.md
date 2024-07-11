@@ -12,7 +12,7 @@
 
 <img align="center" alt="coding" width=500 src = "https://i.giphy.com/nFLW7PNGgN3lI68rdv.webp">
 
-- 🌱 I’m currently working on COOL compiler
+- 🌱 I’m currently working on ALX Front-End Specialization projects 
 
 - 📫 How to reach me **arwa.zakaria@ejust.edu.eg** or
 
