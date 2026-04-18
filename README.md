@@ -8,9 +8,9 @@
 
 <img align="center" alt="coding" width=500 src = "https://i.giphy.com/nFLW7PNGgN3lI68rdv.webp">
 
-- 🌱 I’m currently working on ALX Front-End Specialization projects 
+- 🌱 I’m currently working as Front-End Developer
 
-- 📫 How to reach me **arwa.zakaria@ejust.edu.eg** or
+- 📫 How to reach me **arwaorbany2001@gmail.com** or
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
